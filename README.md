@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Juan%20Passos%20Maciel&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Dev%20em%20forma%C3%A7%C3%A3o&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Juan+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Empreendedor+no+e-commerce+%F0%9F%9B%92%EF%B8%8F;Aprendendo+Java+e+desenvolvimento+backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Juan+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Empreendedor+no+e-commerce+%F0%9F%9B%92%EF%B8%8F;Aprendendo+Dados+e+backend" alt="Typing SVG" />
 </a>
 
 <br/>

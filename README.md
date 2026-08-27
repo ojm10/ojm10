@@ -23,14 +23,14 @@
 ```txt
 const juan = {
     formacao: "Ciência da Computação (Universidade Cruzeiro do Sul)",
-    foco_atual: ["Java", "Backend", "Dados"],
-    outra_frente: "Fundador de um e-commerce de streetwear (sneakers, calças e jerseys)",
-    objetivo: "Construir uma carreira sólida em TI, começando por Suporte e evoluindo para Backend",
+    foco_atual: ["Java","Python", "Backend", "Dados"],
+    outra_frente: "Fundador de um e-commerce e gestor de marketplaces",
+    objetivo: "Construir uma carreira sólida, começando por um estagio",
     curiosidade: "Uso o próprio negócio como laboratório de automação e resolução de problemas reais"
 };
 ```
 
-Estou em formação, então este README documenta uma jornada em construção — não anos de estrada, mas consistência, projetos reais e vontade de aprender rápido.
+Estou em formação, então este README documenta uma jornada em construção, não anos de estrada, mas consistência, projetos reais e vontade de aprender rápido.
 
 ---
 
@@ -73,7 +73,7 @@ Estou em formação, então este README documenta uma jornada em construção �
 
 <div align="center">
 
-📌 *Aberto a oportunidades de estágio e primeiras experiências em TI.*
+📌 *Aberto a oportunidades de estágio e primeiras experiências com estagio.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
 

@@ -62,8 +62,6 @@ Estou em formação, então este README documenta uma jornada em construção, n
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ojm10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojm10&layout=compact&theme=tokyonight&hide_border=true"/> 
 <img src="https://streak-stats.demolab.com/?user=ojm10&theme=tokyonight&hide_border=true" />
 
 </div>

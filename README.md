@@ -8,7 +8,7 @@
 
 <br/>
 
-[![E-mail](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:juanmaaciel@email.com)
+[![E-mail](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:juanmaaciel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/juan-p-maciel)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11958367474)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/juanpmaciel)
@@ -62,10 +62,9 @@ Estou em formação, então este README documenta uma jornada em construção, n
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ojm10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojm10&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ojm10&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ojm10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> 
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojm10&layout=compact&theme=tokyonight&hide_border=true"/> 
+<img src="https://streak-stats.demolab.com/?user=ojm10&theme=tokyonight&hide_border=true" />
 
 </div>
 

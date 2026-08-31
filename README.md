@@ -54,23 +54,12 @@ Estou em formação, então este README documenta uma jornada em construção, n
 |---|---|---|---|
 | **Calculadora de Folha de Pagamento** | Cálculo automatizado de salário líquido com tabelas de INSS e IRRF progressivo, interface gráfica em Tkinter | `Python` `Tkinter` | [Repositório](https://github.com/ojm10/Calculadora-de-Folha-de-Pagamento) |
 | **T.I.A.O — ChatBot em Tricologia** | Chatbot integrado a API externa, com arquitetura modular (core, services, frontend) | `Python` `HTML` `CSS` `JavaScript` | [Repositório](https://github.com/ojm10/T.I.A.O) |
-| **App de Clima** *(em construção)* | Consumo de API meteorológica com interface em Java | `Java` `API` | 🔧 Em breve |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ojm10&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
 <div align="center">
 
-📌 *Aberto a oportunidades de estágio e primeiras experiências com estagio.*
+📌 *Aberto a oportunidades de estágio para aprender e desenvolver minhas habilidades.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
 
